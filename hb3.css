@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+
+body{
+    background-image: url(books-1204029_960_720.webp);
+    margin: 0;
+}
+
+#Boxprincipal{  
+    width: 1000px;
+    margin: 0 auto;
+}
+
+
+div{
+    background-color:white;
+}
+
+#titulo{
+    background-color:gray;
+    text-align: center;
+    font-size: 1cm;
+    font-family: "Bree Serif", serif;
+
+}
+
+.texto{
+    font-family: "Libre Baskerville", serif;
+    font-size: 0.4cm;
+}
+
+#aut{
+    width: 500px;
+    margin: 0 auto;  
+    justify-content: space-evenly;
+}
+
+.autores{
+    background-color:rgb(190, 159, 219);
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 10px 10px 10px 0 black;
+}
+

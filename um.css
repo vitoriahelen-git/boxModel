@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chango&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ranchers&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+
+
+body {
+    background-image: url(fundoprincipal.jpg);
+    font-family: "Merriweather", serif;   
+    margin: 0;  
+}
+
+#Boxprincipal{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+div{
+    background-color:white;
+}
+
+#titulo{
+    background-color: rgb(172, 127, 218);
+    text-align: center;
+    font-size: 1cm;
+    font-family: "Bree Serif", serif;
+}
+
+.opcao {
+    text-align: center;
+    font-size: 1.25em;
+    background-color: lightskyblue;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 50px;
+    margin: 0 auto;
+    padding: 20px;
+    width: 400px;
+    box-shadow: 10px 10px 10px 0 black;
+}
